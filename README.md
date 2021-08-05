@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @liliplair
+- 👀 I’m interested in curiosity.
+- 🌱 I’m currently learning C programing language.
+- 💞️ I’m looking to collaborate on Machine vision processing.
+- 📫 My email is lixiaokunplair@outlook.com
